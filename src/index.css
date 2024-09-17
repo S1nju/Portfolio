@@ -1,10 +1,17 @@
+
+
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+}
+.radix-themes {
+  --default-font-family: "Montserrat", sans-serif;  /* Your custom default font */
+  --heading-font-family:"Montserrat", sans-serif;/* Your custom font for <Heading> components */
+  --code-font-family:  "Montserrat", sans-serif;   /* Your custom font for <Code> components */
+  --strong-font-family: "Montserrat", sans-serif; /* Your custom font for <Strong> components */
+  --em-font-family: "Montserrat", sans-serif;     /* Your custom font for <Em> components */
+  --quote-font-family:  "Montserrat", sans-serif; /* Your custom font for <Quote> components */
 }
 
 code {

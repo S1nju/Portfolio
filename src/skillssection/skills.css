@@ -1,0 +1,23 @@
+.skillssection{
+
+    background-color: #1F2022;
+    color: black;
+display: flex;
+flex-flow: column wrap;
+justify-content: center;
+align-items: center;
+    padding: 25px;
+
+
+}
+.skills{
+  display: flex;
+flex-wrap: wrap;
+
+  align-items: center;
+  justify-content: space-around;
+  gap:75px;
+
+  width: 100%;
+
+}

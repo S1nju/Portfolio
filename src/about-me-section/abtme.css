@@ -1,0 +1,19 @@
+.abtme{
+  overflow: hidden;
+  background-image: url(../assets/background.jpg);
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+
+
+}
+#particles{
+  position: absolute;
+  height: 50%;
+  top:0;
+  width: 100%;
+
+
+
+}

@@ -1,0 +1,9 @@
+.contact{
+  background-color: #1F2022;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-flow: column;
+  padding: 25px;
+}

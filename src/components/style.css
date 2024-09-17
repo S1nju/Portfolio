@@ -1,0 +1,22 @@
+.header{
+  padding: 30px;
+  background-color: #1D1E20;
+  z-index: 5;
+  position: sticky;
+}
+
+.header  a{
+  color:white;
+
+}
+.header a:hover{
+color: aqua;
+
+}
+.loading{
+  color: transparent;
+  font-size: 16rem;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
